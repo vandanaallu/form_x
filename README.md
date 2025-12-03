@@ -39,31 +39,15 @@ formx-webapp/
 
 ---
 
-## 🔧 Installation & Setup
+ 🔧 Installation & Setup
 
 Clone the repository:
 
-```
-bash
+```bash
 git clone https://github.com/vandanaallu/formx-webapp.git
 cd formx-webapp
-Contributions are welcome!
-Follow these steps:
 
-# 1. Fork the repo
-# 2. Create a new branch
-git checkout -b feature-new
 
-# 3. Commit changes
-git commit -m "Added new feature"
-
-# 4. Push branch & create Pull Request
-git push origin feature-new
-
-License
-
-This project is Open Source under the MIT License.
-You are free to modify and distribute.
 
 
 # FormX
